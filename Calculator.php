@@ -1,9 +1,9 @@
 <?php
  $a = 20;
  $b = 0;
-//sndxkqwdnqid
-   $operation ="division";
-
+   $oper
+   ation ="division";
+//RYERTSETRWE3W35W
  if( $operation == "addition"){
  $result= $a + $b;
  echo"The sum is " .$result;
